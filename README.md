@@ -30,6 +30,8 @@ In addiion below accessories are good to have
 
 [![Watch the video](https://github.com/aniryou/SelfDrivingRC/blob/master/media/00a0d562749b438c899d1b5f733ada39.jpg)](https://youtu.be/QnuTLyGUGYw)
 
+[Download Training Data](https://www.dropbox.com/s/8lcjnslmr8h1zs4/traindata.zip?dl=0)
+
 ## Training
 - Random Forest Model: ([link](analyse.ipynb))
 - Fully Connected Neural Net: ([link](tf_fully_connected.ipynb))
