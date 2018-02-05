@@ -37,7 +37,8 @@ In addiion below accessories are good to have
 - Convolution Neural Net
 
 ## Running Car
-Coming Soon ;)
+- [rf_client.py](rf_client.py) (run on PI)
+- [rf_server.p](rf_server.py) (run on Laptop)
 
 ## References
 This post from Zheng Wang's is really good ([link](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)). His car can detect obstacles and traffic light.
